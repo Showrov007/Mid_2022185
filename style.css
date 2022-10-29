@@ -1,0 +1,35 @@
+.bg{
+    background-color: #f1fff0;
+}
+.img{
+    width:100px;
+    padding:10px;
+}
+.card{
+    background-color: #f1fff0;
+    text-decoration: none;
+}
+.card:hover{
+    background-color: white;
+    text-decoration: none;
+}
+.cal{
+    width:40px;
+}
+.people{
+    width:40px;
+}
+.button :hover{
+    color: black;
+}
+.yamaha{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.mis{
+    width:500px ;
+}
+h5{
+    color: white;
+}
